@@ -1,9 +1,13 @@
-# test01
+# Git Test Project
 git command test
 
 ## Mark Down *문서 이탤릭*
-|head1Langage |head2 index|head3 spread out|
-|:--|:--:|--:|
-|Python|easy|wide|
-|JAVA|difficult|wide|
-## Mark Down **문서 볼드**  bold **bold**
+|command |   option|     description             |
+|:--|:--:|:--|
+|git init||first initialize git in the directory|
+|git config user.name <your-name>| |setting user name |
+|| -g|global|
+|git config user.email <your-email>| |setting user email |
+|| -g|global|
+
+# Mark Down **문서 볼드** 
